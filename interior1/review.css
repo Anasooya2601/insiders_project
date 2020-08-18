@@ -1,0 +1,61 @@
+
+
+
+
+img {
+    padding-top: 2rem;
+    padding-bottom: 50px;
+    width: 450px;
+    height: 406px;
+}
+
+.fas {
+    padding-top: 80px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.first {
+    padding-left: 120px;
+}
+
+p {
+    color: white;
+    font-family: 'PT Serif', serif;
+}
+
+.comment {
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.container {
+    background-color: #c1c1c1;
+}
+
+
+#footer {
+    background-color: white;
+    text-align: center;
+    padding: 7% 14%;
+    color: #8f8f8f;
+}
+
+.footer {
+    padding: 0 10px;
+    color: black;
+}
+
+.copyright {
+    color: black;
+}
+
+
+
