@@ -4,7 +4,7 @@
 
 Username:new_user12 Password:newuser12
 
-mongodb+srv:// new_user12: newuser12@cluster0.tempt.gcp.mongodb.net/test
+mongodb+srv:// paste your url here
 
 #database name interior12
 
